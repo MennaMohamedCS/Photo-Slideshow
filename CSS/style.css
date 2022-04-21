@@ -1,0 +1,41 @@
+img{
+
+    width: 400px;
+    height: 300px;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+  button{
+    width: 150px;
+    height: 40px;
+    border: 2px;
+    border-radius: 2px;
+    color: whitesmoke;
+    background-color: mediumaquamarine;
+    margin: 10px;
+    box-shadow:  rgb(3, 98, 3) 0px 5px 10px;
+    font-weight: bold;
+  
+  }
+.container{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.images{
+    display: flex;
+}
+
+#left,#right{
+    width: 20px;
+    height: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.btns{
+    margin: 20px;
+    display: flex;
+}
