@@ -1,8 +1,9 @@
 # Photo-Slideshow
 
-photo slidshow
-
-Technologies:-
+## Technologies:
+```
 HTML
 CSS
 JavaScript
+```
+
